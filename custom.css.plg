@@ -1,10 +1,10 @@
 <?xml version='1.0' standalone='yes'?>
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "custom.css">
-<!ENTITY author    "Wu23333">
+<!ENTITY author    "beanwinchester">
 <!ENTITY version   "2025.11.29a">
 <!ENTITY launch    "Settings/CustomCSS">
-<!ENTITY pluginURL "https://github.com/WuSiYu/unraid-custom-css/raw/refs/heads/master/custom.css.plg">
+<!ENTITY pluginURL "https://github.com/beanwinchester/unraid-custom-css/raw/refs/heads/master/custom.css.plg">
 ]>
 <PLUGIN name="&name;" author="&author;" version="&version;" launch="&launch;" pluginURL="&pluginURL;" min="6.12" icon="fa-code" support="https://forums.unraid.net/topic/195276-plugin-simple-custom-webui-css-plugin-for-unraid-72/">
 
